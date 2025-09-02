@@ -15,6 +15,6 @@ Thank you for your interest in contributing to Agile Project Tracker! We welcome
 - Be respectful, inclusive, and welcoming in all discussions.
 
 ## Issues
-If you encounter any issues or have suggestions for improvements, please create an issue in the repository.
+If you encounter any issues or have suggestions for improvements, please create an issue in the repository using the available issue templates.
 
 Thank you for helping to improve Agile Project Tracker!
