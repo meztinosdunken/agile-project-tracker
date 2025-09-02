@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Agile Project Tracker! We welcome
 1. **Fork the repository**: Create your own fork of the project.
 2. **Create a branch**: Use a descriptive branch name for your feature or issue (e.g., `feature/new-user-interface`).
 3. **Make changes**: Make your changes, and ensure that your code follows our coding standards.
-4. **Test your code**: Run tests to ensure everything works as expected.
+4. **Test your code**: Run tests to ensure everything works as expected. **Make sure to fix any issues that arise during testing before submitting your pull request.**
 5. **Create a pull request**: Submit a pull request describing your changes and referencing any relevant issues.
 
 ## Guidelines
