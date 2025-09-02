@@ -1,0 +1,21 @@
+{
+  "name": "agile-project-tracker",
+  "version": "1.0.0",
+  "description": "A comprehensive solution for agile project management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
