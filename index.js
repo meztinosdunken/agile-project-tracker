@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-// Basic route
+// Basic route for root endpoint
 app.get('/', (req, res) => {
   res.send('Welcome to the Agile Project Tracker API!');
 });
