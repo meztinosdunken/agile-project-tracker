@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Basic route for root endpoint
 app.get('/', (req, res) => {
-  res.send('Welcome to the Agile Project Tracker API!');
+  res.send('Welcome to the Agile Project Tracker API! This API allows you to manage your projects effectively.');
 });
 
 app.listen(PORT, () => {
