@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 // Basic route
 app.get('/', (req, res) => {
-  res.send('Welcome to the Agile Project Tracker API');
+  res.send('Welcome to the Agile Project Tracker API!');
 });
 
 app.listen(PORT, () => {
